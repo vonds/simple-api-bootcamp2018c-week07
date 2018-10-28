@@ -1,0 +1,25 @@
+body {
+  background-image:url("../photo/dog.jpg");
+  background-repeat: no-repeat;
+  background-position: ;
+  text-align: center;
+  background-color: powderblue;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+input {
+  color: black;
+}
+#right {
+  width: 60px;
+  height: 25px;
+  color: #add1af;
+  font-weight: bold;
+  border: 1px solid grey;
+}
